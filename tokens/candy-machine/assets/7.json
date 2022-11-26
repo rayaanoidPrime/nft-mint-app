@@ -1,0 +1,20 @@
+{
+    "name": "Sword #007",
+    "symbol": "NB",
+    "description": "Collection of 11 swords on the blockchain. This is the number 8/11.",
+    "image": "7.png",
+    "attributes": [
+      {
+        "trait_type": "Sword",
+        "value": "10"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

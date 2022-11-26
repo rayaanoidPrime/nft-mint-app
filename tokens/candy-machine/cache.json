@@ -1,0 +1,105 @@
+{
+  "program": {
+    "candyMachine": "Bav4iveCLPk4dHMPGLEQ5sSBqiKLLPk9H43duFWLPjYi",
+    "candyMachineCreator": "GtMufNUmCpHJzgagqhyM13vk75PQP8ZBgPQBLRRNVxC6",
+    "collectionMint": "yHuSH6Xjg9DDCKaNnbBBnL39voD175YHhH48EyKU9WN"
+  },
+  "items": {
+    "-1": {
+      "name": "Build Collection",
+      "image_hash": "5b7447d368d14e637671d200f9a034f57e840a5ccba340136a5e6c2919f57be7",
+      "image_link": "https://arweave.net/NMbANaGfV60u-6OTy0SVLm_SllUuCW-8keUT0MhVFZQ?ext=png",
+      "metadata_hash": "f07e87a520f76abf24e88c2ea09e4f97d4af14f3cb7b7d1552ec23825f097edb",
+      "metadata_link": "https://arweave.net/fccyWkheiFAzrSYWBVyz8bgXcUYz5kXsSly7PY2Wv8g",
+      "onChain": true
+    },
+    "0": {
+      "name": "Sword #000",
+      "image_hash": "37d420fcda84a870ece2ef13b1e22d8949669bcabe0ddfb303df42587a6a1946",
+      "image_link": "https://arweave.net/lGV4Wl5WhweqsKii7mv8Iy-wHk4EMrBJE3jb1y4032Q?ext=png",
+      "metadata_hash": "36f8497800c256ea0eb2eb51d1ee1557bb2830faebbcef604d61c8311fc5e6b6",
+      "metadata_link": "https://arweave.net/_e-p2rNVy-g84qOxaHOrwl_x5jWsIeKwo2z5eGrSSHw",
+      "onChain": true
+    },
+    "1": {
+      "name": "Sword #001",
+      "image_hash": "bad8da4ef538af659ba1ec505e60bba258e63968e6c6f3a52d6cd856bd31a33d",
+      "image_link": "https://arweave.net/GXTdVfTO1kdFeHLkAYd0wJRYFGBOrU-3uWOSeUkYcYs?ext=png",
+      "metadata_hash": "ec3db00f1238dbae343e1f2a7677ae25939e5b3c5a15fa76e0b5fafa8424d543",
+      "metadata_link": "https://arweave.net/y4QXXcCDeiXp0mV7whT23ohKn3gh2Kc8wxLGKRKTZio",
+      "onChain": true
+    },
+    "2": {
+      "name": "Sword #002",
+      "image_hash": "9b38214dc6c036eb8fb12a5d5d1c74a8f289173016b9fe22d3478459b4c86f50",
+      "image_link": "https://arweave.net/443jRptDZ5x4RgHEuqsxxiVYadqDSyN5iuT7i2zPAG8?ext=png",
+      "metadata_hash": "0ef78bff4a0ad946dc4bb71f943e9bbc063744a92d74c15ac615b0f85d991984",
+      "metadata_link": "https://arweave.net/QRR24juuulaWyihTIA2mhbKmlkb6KdVPzdChmgQRzT0",
+      "onChain": true
+    },
+    "3": {
+      "name": "Sword #003",
+      "image_hash": "230d341438f56470e41e40936d871f93f854fcf1411a6b0082f1b2740baab0c5",
+      "image_link": "https://arweave.net/k1xIfftDcvOboGpYaUCH4z0pjqdwhERfcJ1lHMkNy2E?ext=png",
+      "metadata_hash": "127ecfa74545bffa308895b99b7cc7d131352883c9ac8e8a48fdb93486c21217",
+      "metadata_link": "https://arweave.net/sQZoxZZ01nwGiJXud4ABArpo2ej2Tyb3luQyQb2dnPo",
+      "onChain": true
+    },
+    "4": {
+      "name": "Sword #004",
+      "image_hash": "77bae86fb3ac04353485efb7144e249f82fb9eb879ecc38da632b988ae65ebf0",
+      "image_link": "https://arweave.net/hNF_o_Dj9D57x4sXcSidkn4P-NwTkhQl8VTcPctr9aI?ext=png",
+      "metadata_hash": "d2ee32680bbac0336373331cecaaf4a7a9e21381032091dfa17ec6dcff13fba1",
+      "metadata_link": "https://arweave.net/ayM9x3VxJT0eHW01Z25w4lcAkXfL2MA7qoU7K8z1I48",
+      "onChain": true
+    },
+    "5": {
+      "name": "Sword #005",
+      "image_hash": "b17a127e1b6a306004c06735f180e1f5534939540714a3fa892033cb0fdfcf58",
+      "image_link": "https://arweave.net/_8fboJi-tTnVuo6UMy4iewQF-RO9FagLX7ge3r8GG_A?ext=png",
+      "metadata_hash": "7ca785be9bf09f1b55d9af3445a12d0a7566c492011f013375593b10832528e6",
+      "metadata_link": "https://arweave.net/CIXSN_l-ckeh2X-eDCWEle8edZk3lPwjrIH4D5GyFIk",
+      "onChain": true
+    },
+    "6": {
+      "name": "Sword #006",
+      "image_hash": "762e197e72f649bdf47a7aa79d5b44ca90d3f16f901e46d9e7abd9bb2eb4d8ea",
+      "image_link": "https://arweave.net/X50iAzwGHk2XWnX_OHFZQN_z1FqX3lhNCmBzm0OPYys?ext=png",
+      "metadata_hash": "803eb6ad5c2c032d00fce1ce72cf334a4225f6a0ce386e8f4d7710354831d1ab",
+      "metadata_link": "https://arweave.net/c5QN1Az9yRAkJbD3DpxBgnKqc_GZ9NJkAo3epZD3HQs",
+      "onChain": true
+    },
+    "7": {
+      "name": "Sword #007",
+      "image_hash": "166fe4dd5a648ddc46480ffe6e8891a855c2ee0dbd146a7c867f729dbe5d5ce5",
+      "image_link": "https://arweave.net/Hmhw5Ve2m89yaZMsg9ahmf458q6tjkwDjMpoKw-hNwA?ext=png",
+      "metadata_hash": "9138d61bfd2816e1f6eac424dc7dc7dbe4792697d94c60b15edb42a18dda084b",
+      "metadata_link": "https://arweave.net/Dn0dJCEbWcd6mpg8vW0v2-jtsE8Mm8aFJtO1wWK6jkw",
+      "onChain": true
+    },
+    "8": {
+      "name": "Sword #008",
+      "image_hash": "316bfab58f685efada84c6a16e817eeff5ef5acace440dc3dbfdfca236949ac4",
+      "image_link": "https://arweave.net/rBDofp0jJAYLjgtbNNhPiw89fq6C4vTHKtfmwfJDxxk?ext=png",
+      "metadata_hash": "4cbec0f11ba44398b26fc6ada99a20fef300fc2a6fff245ef688dc716d6b9a16",
+      "metadata_link": "https://arweave.net/4K4F5dU_uH9YvjX4ot5p-70eWjof1l7kNIrgAD7oW6c",
+      "onChain": true
+    },
+    "9": {
+      "name": "Sword #009",
+      "image_hash": "94b16edc90aa3ce721b3ad0a35777f77a37a1bb2668dbdcbed22507eec98f4c7",
+      "image_link": "https://arweave.net/M2fuITJ0pFwmIYndjNw2nNGS5_zqEn0tohjf3PWdGi0?ext=png",
+      "metadata_hash": "a88139e95c70dea922c548bfe10d8751b4a149fb2b4321ffbd204a9dce3c5b37",
+      "metadata_link": "https://arweave.net/emsz5JN4iE1WX_TW4SvQo2cdBnCgVw_G2H6olowQKKs",
+      "onChain": true
+    },
+    "10": {
+      "name": "Sword #010",
+      "image_hash": "6204a159ecda912880699c1313559ae3a226ee15f37845c82f9d06b3e9fd0894",
+      "image_link": "https://arweave.net/E1AACNWW4qhII6RTtJOW178k5WVDXgnZazDRExB63mU?ext=png",
+      "metadata_hash": "31e21ec5b19f506955126f1de5da0ad69a38d4a2ab94426fabff32df6842501c",
+      "metadata_link": "https://arweave.net/NwjEHpVx_Vz4R5PxIGza1s3ih9mCHUrIIALPNOd25f8",
+      "onChain": true
+    }
+  }
+}
